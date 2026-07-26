@@ -1,0 +1,30 @@
+name: rotate figlet font
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # once a day
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rotate today's font into README.md
+        env:
+          FIGLET_API_BASE: https://your-project.vercel.app
+          FIGLET_TEXT: manojkumar
+          FIGLET_COLOR: "00ff41"
+          FIGLET_BACKGROUND: "0c0c0c"
+        run: node scripts/rotate-figlet.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: rotate figlet font"
+          git push
