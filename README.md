@@ -52,7 +52,6 @@ $ git log --stat
 ```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manojisnow&show_icons=true&theme=github-dark&hide_border=true&hide_rank=true&bg_color=0c0c0c&title_color=00ff41&icon_color=00ff41&text_color=d4f5d4" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manojisnow&theme=github-dark&hide_border=true&background=0c0c0c&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 </p>
 
