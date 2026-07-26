@@ -1,64 +1,110 @@
-<h1 align="center">Hi, I'm Manoj 👋</h1>
-<h3 align="center">Senior Java Developer & Technical Lead · Ireland</h3>
-
-<p align="center">
-  <a href="https://manojkumar.eu"><img src="https://img.shields.io/badge/portfolio-manojkumar.eu-00ff41?style=flat-square&labelColor=0c0c0c" /></a>
-  <a href="https://medium.com/@manojisnow"><img src="https://img.shields.io/badge/medium-@manojisnow-00ff41?style=flat-square&labelColor=0c0c0c" /></a>
-  <a href="https://linkedin.com/in/manoj-kumar-49251b15"><img src="https://img.shields.io/badge/linkedin-manoj--kumar-00ff41?style=flat-square&labelColor=0c0c0c" /></a>
-</p>
+<div align="center">
 
 ```
-$ whoami
+                                  _ __                             
+   ____ ___  ____ _____  ____    (_) /____  ______ ___  ____ ______
+  / __ `__ \/ __ `/ __ \/ __ \  / / //_/ / / / __ `__ \/ __ `/ ___/
+ / / / / / / /_/ / / / / /_/ / / / ,< / /_/ / / / / / / /_/ / /    
+/_/ /_/ /_/\__,_/_/ /_/\____/_/ /_/|_|\__,_/_/ /_/ /_/\__,_/_/     
+                           /___/                                   
 ```
 
-15+ years designing and delivering high-performance, globally distributed enterprise systems across
-financial services, telecommunications, and e-learning. Deep in microservices, Kafka, and cloud-native
-platforms. Outside client work, I build open-source tools in areas I find genuinely interesting:
-security automation, AI integration, and frontend language design.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Senior+Java+Developer+%26+Tech+Lead;15%2B+years+in+microservices+%26+Kafka;Builds+things+that+don%27t+fall+over+at+3am;Currently+vibe-coding+open-source+tools)](https://git.io/typing-svg)
 
-**Career highlights:** reduced a codebase by 50% · cut security vulnerabilities by 90% · migrated
-200M+ database records with zero downtime.
+[![portfolio](https://img.shields.io/badge/portfolio-manojkumar.eu-00ff41?style=for-the-badge&labelColor=0c0c0c)](https://manojkumar.eu)
+[![medium](https://img.shields.io/badge/medium-@manojisnow-00ff41?style=for-the-badge&labelColor=0c0c0c)](https://medium.com/@manojisnow)
+[![linkedin](https://img.shields.io/badge/linkedin-manoj--kumar-00ff41?style=for-the-badge&labelColor=0c0c0c)](https://linkedin.com/in/manoj-kumar-49251b15)
 
-```
-$ cat skills.txt
-```
+</div>
 
-**Languages & Frameworks:** Java 8–17, Python, Spring Boot, Spring Framework, REST APIs, Microservices, Kafka
-**Cloud & DevOps:** Azure Functions, AWS, Docker, Kubernetes, Helm, Jenkins, SonarQube
-**Databases:** Oracle, MySQL, PostgreSQL, AWS Aurora, NDB Cluster, SQL Server
-**Security & Testing:** DevSecOps, Trivy, Grype, Kubescape, Gitleaks, Semgrep, JUnit, Karate
+<br>
 
-```
-$ ls projects/
+```bash
+manoj@github ~ % neofetch
 ```
 
-- **[Laria](https://github.com/manojisnow/laria)** — security orchestration platform integrating 10+ scanning tools (Trivy, Gitleaks, Semgrep, Kubescape) into a unified CI/CD pipeline with SBOM generation
-- **[Boox](https://github.com/manojisnow/boox)** — full-stack local AI chatbot (Spring Boot, React, Ollama) with real-time SSE streaming and tool-calling — no cloud required
-- **[Tela](https://github.com/tela-lang/tela)** — declarative single-file component language published to npm, compiles to vanilla JS/CSS with zero dependencies
-
 ```
-$ cat articles.md
-```
-
-- [How I Got CloudKit Sharing Right by Not Touching My Real App](https://medium.com/@manojisnow/how-i-got-cloudkit-sharing-right-by-not-touching-my-real-app-557f0c5b527a)
-- [Your Full Stack AI App With Zero API Costs Is Here](https://medium.com/@manojisnow/your-full-stack-ai-app-with-zero-api-costs-is-here-apple-just-showed-us-how-37bb24257982)
-- [Three Types of AI Work in Software Development](https://medium.com/@manojisnow/three-types-of-ai-work-in-software-development-and-the-one-i-think-we-should-master-d76971a0bdb4)
-- [I Stress-Tested a Few AI Coding Tools Building One App](https://medium.com/@manojisnow/i-stress-tested-a-few-ai-coding-tool-building-one-app-heres-what-actually-works-33ece8bf53bc)
-
-More on [Medium](https://medium.com/@manojisnow) →
-
-```
-$ git log --stat
+manoj@github
+-------------
+OS: Ireland-based Engineer 15+ yrs
+Host: Fidelity Investments (Senior SWE)
+Kernel: Java 8-17 / Spring Boot / SQL
+Uptime: 15 years, still no downtime
+Shell: Microservices + Cloud
+DE: Kubernetes / Docker / Helm
+Theme: DevSecOps [dark]
+Terminal: JetBrains Mono
+Memory: 200M+ records migrated, zero downtime
 ```
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manojisnow&theme=github-dark&hide_border=true&background=0c0c0c&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-</p>
+<br>
 
-```
-$ echo "open to contract & consulting work in Ireland"
+```bash
+manoj@github ~ % ls -la skills/
 ```
 
-<p align="left">
-  📫 <a href="mailto:umanojkumarit+portfolio@gmail.com">umanojkumarit+portfolio@gmail.com</a>
-</p>
+<div align="center">
+
+![Java](https://skillicons.dev/icons?i=java,spring,gherkin,hibernate,docker,kubernetes,aws,azure,mysql,git,jenkins,bash,linux&theme=dark)
+
+</div>
+
+<br>
+
+```bash
+manoj@github ~ % git log --author="manoj" --oneline --stat
+```
+
+<div align="center">
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manojisnow&theme=github-dark&hide_border=true&background=0c0c0c&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+</div>
+
+<!--START_SECTION:waka-->
+<!-- one-time setup below can populate a "coding hours this week" bar here via wakatime -->
+<!--END_SECTION:waka-->
+
+<br>
+
+```bash
+manoj@github ~ % tree projects/ -L 1
+```
+
+```
+projects/
+├── laria/    security orchestration — Trivy, Gitleaks, Semgrep, Kubescape → unified CI/CD + SBOM
+├── boox/     local AI chatbot — Spring Boot + React + Ollama, SSE streaming, no cloud
+└── tela/     single-file component lang → compiles to vanilla JS/CSS, zero deps, on npm
+```
+
+- 🛡️ **[Laria](https://github.com/manojisnow/laria)** — security orchestration platform, 10+ scanners unified into one pipeline
+- 🤖 **[Boox](https://github.com/manojisnow/boox)** — full-stack local AI chatbot, real-time streaming, zero cloud cost
+- ⚡ **[Tela](https://github.com/tela-lang/tela)** — declarative component language, compiles to plain JS/CSS
+
+<br>
+
+```bash
+manoj@github ~ % cat writing.log | tail -4
+```
+
+- [How I Got CloudKit Sharing Right by Not Touching My Real App](https://medium.com/@manojisnow/how-i-got-cloudkit-sharing-right-by-not-touching-my-real-app-557f0c5b527a) `Apr 2026`
+- [Your Full Stack AI App With Zero API Costs Is Here](https://medium.com/@manojisnow/your-full-stack-ai-app-with-zero-api-costs-is-here-apple-just-showed-us-how-37bb24257982) `Mar 2026`
+- [Three Types of AI Work in Software Development](https://medium.com/@manojisnow/three-types-of-ai-work-in-software-development-and-the-one-i-think-we-should-master-d76971a0bdb4) `Feb 2026`
+- [I Stress-Tested a Few AI Coding Tools Building One App](https://medium.com/@manojisnow/i-stress-tested-a-few-ai-coding-tool-building-one-app-heres-what-actually-works-33ece8bf53bc) `Feb 2026`
+
+`$ ` more on [Medium →](https://medium.com/@manojisnow)
+
+<br>
+
+<div align="center">
+
+```bash
+manoj@github ~ % echo $CONTACT
+```
+
+💼 [LinkedIn](https://linkedin.com/in/manoj-kumar-49251b15) &nbsp;·&nbsp; 🌐 [manojkumar.eu](https://manojkumar.eu)
+
+![Profile views](https://komarev.com/ghpvc/?username=manojisnow&color=00ff41&style=flat-square&label=profile+views)
+
+<sub>$ echo "built with plain HTML — no frameworks harmed" — open to contract & consulting work in Ireland</sub>
+
+</div>
