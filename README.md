@@ -1,13 +1,9 @@
 <div align="center">
 
-```
-                                  _ __                             
-   ____ ___  ____ _____  ____    (_) /____  ______ ___  ____ ______
-  / __ `__ \/ __ `/ __ \/ __ \  / / //_/ / / / __ `__ \/ __ `/ ___/
- / / / / / / /_/ / / / / /_/ / / / ,< / /_/ / / / / / / /_/ / /    
-/_/ /_/ /_/\__,_/_/ /_/\____/_/ /_/|_|\__,_/_/ /_/ /_/\__,_/_/     
-                           /___/                                   
-```
+<!-- FIGLET:START -->
+<img src="https://figlet-svg.vercel.app/?text=manojkumar&font=Standard&color=00ff41&background=0c0c0c" alt="manojkumar" />
+<!-- FIGLET:END -->
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Senior+Java+Developer+%26+Tech+Lead;15%2B+years+in+microservices+%26+Kafka;Builds+things+that+don%27t+fall+over+at+3am;Currently+vibe-coding+open-source+tools)](https://git.io/typing-svg)
 
