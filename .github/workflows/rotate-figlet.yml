@@ -15,7 +15,7 @@ jobs:
 
       - name: Rotate today's font into README.md
         env:
-          FIGLET_API_BASE: https://your-project.vercel.app
+          FIGLET_API_BASE: https://figlet-svg.vercel.app/
           FIGLET_TEXT: manojkumar
           FIGLET_COLOR: "00ff41"
           FIGLET_BACKGROUND: "0c0c0c"
