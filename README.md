@@ -82,7 +82,7 @@ projects/
 
 - 🛡️ **[Laria](https://github.com/manojisnow/laria)** — security orchestration platform, 10+ scanners unified into one pipeline
 - 🤖 **[Boox](https://github.com/manojisnow/boox)** — full-stack local AI chatbot, real-time streaming, zero cloud cost
-- ⚡ **[Tela](https://github.com/tela-lang/tela)** — declarative component language, compiles to plain JS/CSS
+- ⚡ **[Tela](https://tela-lang.github.io/tela/)** — declarative component language, compiles to plain JS/CSS
 - 🔤 **[figlet-svg](https://figlet-svg.vercel.app)** — text-in, ASCII-art-SVG-out badge API, same one-job-done-well idea as shields.io and placehold.co
 
 <br>
