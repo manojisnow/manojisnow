@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- FIGLET:START -->
-<img src="https://figlet-svg.vercel.app//?text=manojkumar&font=Star%20Wars&color=00ff41&background=0c0c0c" alt="manojkumar — today's font: Star Wars" />
+<img src="https://figlet-svg.vercel.app/?text=manojkumar&font=Star%20Wars&color=00ff41&background=0c0c0c" alt="manojkumar — today's font: Star Wars" />
 <!-- FIGLET:END -->
 
 
@@ -76,12 +76,14 @@ manoj@github ~ % tree projects/ -L 1
 projects/
 ├── laria/    security orchestration — Trivy, Gitleaks, Semgrep, Kubescape → unified CI/CD + SBOM
 ├── boox/     local AI chatbot — Spring Boot + React + Ollama, SSE streaming, no cloud
-└── tela/     single-file component lang → compiles to vanilla JS/CSS, zero deps, on npm
+├── tela/     single-file component lang → compiles to vanilla JS/CSS, zero deps, on npm
+└── figlet-svg/  text-to-ASCII SVG generator → same idea as shields.io, embeddable badge API
 ```
 
 - 🛡️ **[Laria](https://github.com/manojisnow/laria)** — security orchestration platform, 10+ scanners unified into one pipeline
 - 🤖 **[Boox](https://github.com/manojisnow/boox)** — full-stack local AI chatbot, real-time streaming, zero cloud cost
 - ⚡ **[Tela](https://github.com/tela-lang/tela)** — declarative component language, compiles to plain JS/CSS
+- 🔤 **[figlet-svg](https://github.com/manojisnow/figlet-svg)** — text-in, ASCII-art-SVG-out badge API, same one-job-done-well idea as shields.io and placehold.co, live at [figlet-svg.vercel.app](https://figlet-svg.vercel.app)
 
 <br>
 
