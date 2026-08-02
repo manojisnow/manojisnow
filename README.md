@@ -88,9 +88,10 @@ projects/
 <br>
 
 ```bash
-manoj@github ~ % cat writing.log | tail -4
+manoj@github ~ % cat writing.log | tail -5
 ```
 
+- [The Three Categories of AI Engineering, Revisited](https://medium.com/@manojisnow/the-three-categories-of-ai-engineering-revisited-4f75d09d2309) `May 2026`
 - [How I Got CloudKit Sharing Right by Not Touching My Real App](https://medium.com/@manojisnow/how-i-got-cloudkit-sharing-right-by-not-touching-my-real-app-557f0c5b527a) `Apr 2026`
 - [Your Full Stack AI App With Zero API Costs Is Here](https://medium.com/@manojisnow/your-full-stack-ai-app-with-zero-api-costs-is-here-apple-just-showed-us-how-37bb24257982) `Mar 2026`
 - [Three Types of AI Work in Software Development](https://medium.com/@manojisnow/three-types-of-ai-work-in-software-development-and-the-one-i-think-we-should-master-d76971a0bdb4) `Feb 2026`
