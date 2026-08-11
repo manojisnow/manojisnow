@@ -5,7 +5,7 @@
 <!-- FIGLET:END -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Code+Whisperer+15+Years+Deep;15%2B+years+in+distributed+systems+%26+Kafka;Builds+things+that+don%27t+fall+over+at+3am;Currently+vibe-coding+open-source+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Code+Whisperer;15%2B+years+in+distributed+systems+%26+Cloud;Builds+things+that+don%27t+fall+over+at+3am;Currently+vibe-coding+open-source+tools)](https://git.io/typing-svg)
 
 [![portfolio](https://img.shields.io/badge/portfolio-manojkumar.eu-00ff41?style=for-the-badge&labelColor=0c0c0c)](https://manojkumar.eu)
 [![medium](https://img.shields.io/badge/medium-@manojisnow-00ff41?style=for-the-badge&labelColor=0c0c0c)](https://medium.com/@manojisnow)
