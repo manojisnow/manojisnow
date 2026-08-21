@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- FIGLET:START -->
-<img src="https://figlet-svg.vercel.app//?text=manojkumar&font=Colossal&color=00ff41&background=0c0c0c" alt="manojkumar — today's font: Colossal" />
+<img src="https://figlet-svg.vercel.app//?text=manojkumar&font=Electronic&color=00ff41&background=0c0c0c" alt="manojkumar — today's font: Electronic" />
 <!-- FIGLET:END -->
 
 
