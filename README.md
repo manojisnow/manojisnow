@@ -74,12 +74,14 @@ manoj@github ~ % tree projects/ -L 1
 
 ```
 projects/
+├── resume-forge/  local resume builder — optional AI, four templates, PDF export
 ├── laria/    security orchestration — Trivy, Gitleaks, Semgrep, Kubescape → unified CI/CD + SBOM
 ├── boox/     local AI chatbot — Spring Boot + React + Ollama, SSE streaming, no cloud
 ├── tela/     single-file component lang → compiles to vanilla JS/CSS, zero deps, on npm
 └── figlet-svg/  text-to-ASCII SVG generator → same idea as shields.io, embeddable badge API
 ```
 
+- 📄 **[ResumeForge](https://github.com/manojisnow/resume-forge)** — local resume builder with optional AI assistance and PDF export · [Release post](https://manojkumar.eu/blog/posts/resumeforge-v1-0-0-is-out.html)
 - 🛡️ **[Laria](https://github.com/manojisnow/laria)** — security orchestration platform, 10+ scanners unified into one pipeline
 - 🤖 **[Boox](https://github.com/manojisnow/boox)** — full-stack local AI chatbot, real-time streaming, zero cloud cost
 - ⚡ **[Tela](https://tela-lang.github.io/tela/)** — declarative component language, compiles to plain JS/CSS
@@ -91,11 +93,11 @@ projects/
 manoj@github ~ % cat writing.log | tail -5
 ```
 
+- [ResumeForge v1.0.0 is out](https://manojkumar.eu/blog/posts/resumeforge-v1-0-0-is-out.html) `Oct 2026`
+- [From a developer’s diary: OOM nightmares](https://manojkumar.eu/blog/posts/from-a-developers-diary-oom-nightmares.html) `Sep 2026`
 - [The Three Categories of AI Engineering, Revisited](https://medium.com/@manojisnow/the-three-categories-of-ai-engineering-revisited-4f75d09d2309) `May 2026`
 - [How I Got CloudKit Sharing Right by Not Touching My Real App](https://medium.com/@manojisnow/how-i-got-cloudkit-sharing-right-by-not-touching-my-real-app-557f0c5b527a) `Apr 2026`
 - [Your Full Stack AI App With Zero API Costs Is Here](https://medium.com/@manojisnow/your-full-stack-ai-app-with-zero-api-costs-is-here-apple-just-showed-us-how-37bb24257982) `Mar 2026`
-- [Three Types of AI Work in Software Development](https://medium.com/@manojisnow/three-types-of-ai-work-in-software-development-and-the-one-i-think-we-should-master-d76971a0bdb4) `Feb 2026`
-- [I Stress-Tested a Few AI Coding Tools Building One App](https://medium.com/@manojisnow/i-stress-tested-a-few-ai-coding-tool-building-one-app-heres-what-actually-works-33ece8bf53bc) `Feb 2026`
 
 `$ ` more on [Medium →](https://medium.com/@manojisnow)
 
