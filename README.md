@@ -76,14 +76,14 @@ manoj@github ~ % tree projects/ -L 1
 projects/
 ├── resume-forge/  local resume builder — optional AI, four templates, PDF export
 ├── laria/    security orchestration — Trivy, Gitleaks, Semgrep, Kubescape → unified CI/CD + SBOM
-├── boox/     local AI chatbot — Spring Boot + React + Ollama, SSE streaming, no cloud
+├── ullavox/  AI workspace — projects, saved notes, files and research; local models, cloud optional
 ├── tela/     single-file component lang → compiles to vanilla JS/CSS, zero deps, on npm
 └── figlet-svg/  text-to-ASCII SVG generator → same idea as shields.io, embeddable badge API
 ```
 
 - 📄 **[ResumeForge](https://github.com/manojisnow/resume-forge)** — local resume builder with optional AI assistance and PDF export · [Release post](https://manojkumar.eu/blog/posts/resumeforge-v1-0-0-is-out.html)
 - 🛡️ **[Laria](https://github.com/manojisnow/laria)** — security orchestration platform, 10+ scanners unified into one pipeline
-- 🤖 **[Boox](https://github.com/manojisnow/boox)** — full-stack local AI chatbot, real-time streaming, zero cloud cost
+- 🤖 **[Ullavox](https://github.com/manojisnow/ullavox)** — open-source AI workspace with projects, saved notes, text-file analysis and optional web research; local models through Ollama, cloud models optional · [v1.7.0 release](https://github.com/manojisnow/ullavox/releases/tag/v1.7.0)
 - ⚡ **[Tela](https://tela-lang.github.io/tela/)** — declarative component language, compiles to plain JS/CSS
 - 🔤 **[figlet-svg](https://figlet-svg.vercel.app)** — text-in, ASCII-art-SVG-out badge API, same one-job-done-well idea as shields.io and placehold.co
 
