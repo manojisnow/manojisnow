@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Picks "today's" figlet font (cycles deterministically through a curated
 // list by day-of-year) and rewrites the banner <img> in README.md between
-// the FIGLET marker comments. Meant to run daily via GitHub Actions —
+// the FIGLET marker comments. Meant to run weekly via GitHub Actions;
 // see .github/workflows/rotate-figlet.yml.
 
 const fs = require("fs");
