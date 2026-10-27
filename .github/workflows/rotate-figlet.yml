@@ -2,16 +2,23 @@ name: rotate figlet font
 
 on:
   schedule:
-    - cron: "0 6 * * *" # once a day
+    - cron: "0 6 * * 1" # Mondays at 06:00 UTC
   workflow_dispatch:
+
+concurrency:
+  group: rotate-figlet
+  cancel-in-progress: false
 
 jobs:
   rotate:
     permissions:
       contents: write
+      pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
       - name: Rotate today's font into README.md
         env:
@@ -21,10 +28,16 @@ jobs:
           FIGLET_BACKGROUND: "0c0c0c"
         run: node scripts/rotate-figlet.js
 
-      - name: Commit if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet || git commit -m "chore: rotate figlet font"
-          git push
+      # Requires Actions > General > Workflow permissions >
+      # "Allow GitHub Actions to create and approve pull requests".
+      - name: Open or update the weekly rotation PR
+        uses: peter-evans/create-pull-request@v8
+        with:
+          add-paths: README.md
+          branch: codex/rotate-figlet
+          commit-message: "chore: rotate figlet font"
+          title: "chore: rotate figlet font"
+          body: |
+            Update the profile banner to the font selected by the weekly rotation.
+
+            Review and merge this PR to publish the new banner.
